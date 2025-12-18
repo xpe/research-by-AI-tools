@@ -17,7 +17,7 @@ Please assess the background of https://freeisbn.com ...
 - related efforts?
 ```
 
-I also included my "aspiring rationalist guidelines". Here is are some example paragraphs:
+I also included my "aspiring rationalist guidelines". Here are some example components:
 - I value slow and careful thinking.
 - If information sources are contradictory, say that directly.
 - When making assessments (of anything), don't anchor to arbitrary quality levels. In the real world, almost all assessments are relative to _something_. Stating the basis of your comparison can help avoid waffling.
